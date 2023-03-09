@@ -5,8 +5,8 @@ function Footer() {
   return (
     <div className="bg-gray-800 py-6">
       <div className="max-w-screen-lg mx-auto px-6 text-center">
-        <p className="text-gray-400 mb-2">&copy; 2023 My Website. All rights reserved.</p>
-        <p className="text-gray-400 mb-2">Built with React and TailwindCSS</p>
+        <p className="text-gray-400 mb-2">&copy; 2023 Kagisho Phahlamohlaka. All rights reserved.</p>
+        <p className="text-gray-400 mb-2"></p>
         <div className="flex justify-center">
           <a href="#" className="text-gray-400 hover:text-white transition duration-300 mr-4">
             <i className="fab fa-twitter"></i>
