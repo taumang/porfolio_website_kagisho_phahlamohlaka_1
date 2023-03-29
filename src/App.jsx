@@ -45,7 +45,7 @@ function App() {
         </button>
         </a>
         </div>
-        {/* <div className="bg-gray-200 m-4 p-6 w-80">
+        <div className="bg-gray-200 m-4 p-6 w-80">
         <img src={Image5} alt="" className="rounded-full h-52 w-48 mx-auto mb-12"/>
           <h2 className="text-xl font-bold mb-4">WordPress(Project) Moeng AgriBusiness Cooperation website</h2>
           <p className="text-lg">Website which I have been tasked to create using WordPress by my current Mentor at MIIS Business Botswana</p>
